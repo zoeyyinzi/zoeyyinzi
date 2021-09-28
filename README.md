@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zoey - @zoeyyinzi !
 - ⚖️ I'm an Accountant, CPA, CMA !!
-- 👀 I’m interested in using Python to handle accounting tasks !!!
+- 👀 I’m interested in using Python to handle my daily tasks !!!
 
 
 <!---
